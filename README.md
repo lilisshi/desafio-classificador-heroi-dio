@@ -21,4 +21,4 @@ Classificar o nível de um herói com base na quantidade de XP.
 
 ## Exemplo de saída
 
-O Herói de nome Aragorn está no nível de Platina
+O Herói de nome Jungkook está no nível de Platina
